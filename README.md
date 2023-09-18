@@ -1,5 +1,7 @@
 # 💫 About Me:
-#!/usr/bin/python<br># -*- coding: utf-8 -*-<br><br><br>class CS_Student:<br><br>    def __init__(self):<br>        self.name = "Micah Yihun Aldrich"<br>        self.role = "Computer Science Stduent"<br>        self.language_spoken = ["en_US"]<br><br>    def say_hi(self):<br>        print("Thanks for visiting, hope you find some of my work interesting.)<br><br><br>me = CS_Student()<br>me.say_hi()<br>
+I'm an Computer Science student at The Pennsylvania State University (Schreyer Honors College). I make educational content on TikTok for fun and to pass some of what I learn to other aspiring software engineers.
+
+I mainly talk about programming advice, software engineering resources, and technical interview preperation. I am actively involved in computer science communities like ColorStack, and the Google Student Developers Club at Penn State.
 
 
 ## 🌐 Socials:
