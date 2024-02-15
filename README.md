@@ -1,7 +1,5 @@
 ## About Me:
-Honors Computer Science student at The Pennsylvania State University. I make educational content on TikTok for fun and to pass some of what I learn to other aspiring software engineers.
-
-I mainly talk about programming advice, software engineering resources, and technical interview preperation. I am actively involved in computer science communities like ColorStack, and the Google Student Developers Club at Penn State.
+Honors Computer Science student at The Pennsylvania State University.
 
 
 ## 🌐 Socials:
