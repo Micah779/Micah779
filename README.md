@@ -1,5 +1,5 @@
 ## About Me:
-Honors Computer Science & Economics at The Univeristy of Illinois Urbana Champaign.
+Computer Science & Economics at The Univeristy of Illinois Urbana Champaign.
 
 
 ## 🌐 Socials:
